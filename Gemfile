@@ -1,6 +1,7 @@
 source "https://rubygems.org"
 
 gem 'faker'
+gem 'csv'
 
 # Bundle edge Rails instead: gem "rails", github: "rails/rails", branch: "main"
 gem "rails", "~> 8.1.4"
